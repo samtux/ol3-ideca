@@ -6,3 +6,5 @@ El siguiente es una plantilla del Visor de mapas con la librería Openlayers 3 y
 - Agregar el mapa de referencia de Bogotá XYZ
 - Agregar la ortofoto de Bogotá
 - Agregar capa de servicios WMS
+- 
+Para previsualizar el mapa: https://rawgit.com/samtux/ol3-ideca/master/mapa.html 
